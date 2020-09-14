@@ -16,6 +16,7 @@ public class BattleField extends JPanel {
 
     private boolean isInit;
 
+
     int cellWidth;
     int cellHeight;
 

@@ -31,6 +31,7 @@ public class MessageWindow extends JFrame {
         JButton buttonNewGame = new JButton("Start new game");
         JButton buttonExit = new JButton("Exit");
 
+
         jPanel.add(buttonNewGame);
         jPanel.add(buttonExit);
         add(jPanel, BorderLayout.SOUTH);

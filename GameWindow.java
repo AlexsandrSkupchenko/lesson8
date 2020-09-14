@@ -21,6 +21,7 @@ public class GameWindow extends JFrame {
         battleField = new BattleField(this);
         add(battleField, BorderLayout.CENTER);
 
+
         settingWindow = new SettingWindow(this);
 
         messageWindow = new MessageWindow(this);

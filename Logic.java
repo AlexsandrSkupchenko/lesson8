@@ -42,6 +42,7 @@ public class Logic {
             return;
         }
 
+
         isFinishedGame = false;
     }
 

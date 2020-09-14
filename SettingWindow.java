@@ -70,6 +70,7 @@ public class SettingWindow extends JFrame {
                 mode = MODE_H_VS_H;
             }
 
+
             int fieldSize = slFieldSize.getValue();
             int winningLength = slWinningLength.getValue();
 
